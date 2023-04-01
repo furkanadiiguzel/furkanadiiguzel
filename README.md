@@ -1,7 +1,10 @@
 # 💫 About Me:
+
 I am Information Systems and Technologies Student at Bilkent University. 
 
-# 🔭 Currently work on Golang, PostgreSQL, GraphQL 
+# 🔭 Currently:
+
+Working on Golang, PostgreSQL, GraphQL 
 
 
 ## 🌐 Socials:
