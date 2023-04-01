@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am Information Systems and Technologies Student at Bilkent University. 
+Junior Information Systems and Technologies Student at Bilkent University. 
 
 # 🔭 Currently:
 
