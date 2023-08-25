@@ -4,7 +4,7 @@ Junior Information Systems and Technologies Student at Bilkent University.
 
 # 🔭 Currently:
 
-Working on Golang, PostgreSQL, GraphQL 
+Working on Golang, PostgreSQL, GraphQL, Blockchain 
 
 
 ## 🌐 Socials:
