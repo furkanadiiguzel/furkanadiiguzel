@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 Junior CTIS Student at Bilkent University. 
 
