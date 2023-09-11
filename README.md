@@ -4,7 +4,7 @@ Junior CTIS Student at Bilkent University.
 
 # Currently:
 
-Working on Golang, Blockchain, GraphQL, PostgreSQL 
+Working on Golang, Angular, .NET, Blockchain, PostgreSQL 
 
 
 # Socials:
