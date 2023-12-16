@@ -3,8 +3,6 @@
 Junior CTIS Student at Bilkent University</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkanadiiguzel" alt="furkanadiiguzel" /></a> </p>
-
 - 🔭 I’m currently working on [Hi-ROB](https://github.com/Ubn-Jr/hirob-be-core)
 
 - 🌱 I’m currently learning **Node.js, LLM, Microservices, IoT**
