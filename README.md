@@ -5,8 +5,11 @@ Junior CTIS Student at Bilkent University</h3>
 </br>
 
 - 🔭 I’m currently working on [Hi-ROB](https://github.com/Ubn-Jr/hirob-be-core)
+  
 </br>
+
 - 🌱 I’m currently learning **Node.js, LLM, Microservices, IoT**
+  
 </br>
 
 align="center">- 🤝 I’m looking for help with [My AI Tool Project](https://github.com/furkanadiiguzel/Video-Automation-AI)
