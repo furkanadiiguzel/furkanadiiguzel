@@ -12,10 +12,10 @@ Junior CTIS Student at Bilkent University</h3>
   
 </br>
 
-align="center">- 🤝 I’m looking for help with [My AI Tool Project](https://github.com/furkanadiiguzel/Video-Automation-AI)
+- 🤝 I’m looking for help with [My AI Tool Project](https://github.com/furkanadiiguzel/Video-Automation-AI)
 </br>
 
-align="center">- 📫 How to reach me **furkadiguzel@gmail.com**
+- 📫 How to reach me **furkadiguzel@gmail.com**
 </br>
 
 <h3 align="left">Connect with me:</h3>
