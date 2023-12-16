@@ -1,35 +1,49 @@
+<!-- Add this to your README.md file -->
+
 <h1 align="center">Hi 👋, I'm Furkan Adıgüzel</h1>
 <h3 align="center">Junior Software Developer at UBN-Jr</h3>
-
 <h3 align="center">&</h3>
-
 <h3 align="center">Junior CTIS Student  @ Bilkent University</h3>
 
-</br>
+<br>
 
-- 🔭 I’m currently working on [Hi-ROB](https://github.com/Ubn-Jr/hirob-be-core)
-  
-</br>
+<p align="center">
+  <b>🔭 Currently working on</b><br>
+  <a href="https://github.com/Ubn-Jr/hirob-be-core">Hi-ROB</a>
+</p>
 
-- 🌱 I’m currently learning **Node.js, LLM, Microservices, IoT**
-  
-</br>
+<br>
 
-- 🤝 I’m looking for help with [My AI Tool Project](https://github.com/furkanadiiguzel/Video-Automation-AI)
-</br>
+<p align="center">
+  <b>🌱 Currently learning</b><br>
+  Node.js, LLM, Microservices, IoT
+</p>
 
-- 📫 How to reach me **furkadiguzel@gmail.com**
-</br>
+<br>
+
+<p align="center">
+  <b>🤝 Looking for help with</b><br>
+  <a href="https://github.com/furkanadiiguzel/Video-Automation-AI">My AI Tool Project</a>
+</p>
+
+<br>
+
+<p align="center">
+  <b>📫 How to reach me</b><br>
+  <a href="mailto:furkadiguzel@gmail.com">furkadiguzel@gmail.com</a>
+</p>
+
+<br>
 
 <h4 align="center">Connect with me:</h4>
 <p align="center">
-<a href="https://www.linkedin.com/in/furkan-adiguzel-ba64511b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/furkan-adiguzel-ba64511b6/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20710308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20710308" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/furkan-adiguzel-ba64511b6/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/20710308" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
 </p>
 
-</br>
-<h4 align="center">Languages and Tools:</h4>
+<br>
 
+<h4 align="center">Languages and Tools:</h4>
 <p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -81,12 +95,20 @@
   </a>
 </p>
 
-<h3> 📊 GitHub Stats: </h3>
 
-![](https://github-readme-stats.vercel.app/api?username=furkanadiiguzel&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=furkanadiiguzel&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanadiiguzel&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<br>
+
+<h3 align="center">📊 GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=furkanadiiguzel&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkanadiiguzel&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanadiiguzel&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=furkanadiiguzel&icon=0&color=6)](https://visitcount.itsvg.in)
+
+[![Profile Visits](https://visitcount.itsvg.in/api?id=furkanadiiguzel&icon=0&color=6)](https://visitcount.itsvg.in)
 
