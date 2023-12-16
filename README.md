@@ -1,7 +1,7 @@
 <!-- Add this to your README.md file -->
 
 <h1 align="center">Hi 👋, I'm Furkan Adıgüzel</h1>
-<h3 align="center">Junior Software Developer at UBN-Jr</h3>
+<h3 align="center">Junior Software Developer @ UBN-Jr</h3>
 <h3 align="center">&</h3>
 <h3 align="center">Junior CTIS Student  @ Bilkent University</h3>
 
