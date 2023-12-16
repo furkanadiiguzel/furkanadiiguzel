@@ -3,7 +3,7 @@
 
 <h3 align="center">&</h3>
 
-<h4 align="center">Junior CTIS Student at Bilkent University</h4>
+<h3 align="center">Junior CTIS Student  @ Bilkent University</h3>
 
 </br>
 
