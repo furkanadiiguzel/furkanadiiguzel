@@ -3,7 +3,7 @@
 Junior CTIS Student at Bilkent University</h3>
 
 
-- 🔭 I’m currently working on [Hi-ROB](https://github.com/Ubn-Jr/hirob-be-core)
+<h4 align="center">- 🔭 I’m currently working on [Hi-ROB](https://github.com/Ubn-Jr/hirob-be-core)</h4>
 
 - 🌱 I’m currently learning **Node.js, LLM, Microservices, IoT**
 
@@ -15,7 +15,6 @@ Junior CTIS Student at Bilkent University</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/furkan-adiguzel-ba64511b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/furkan-adiguzel-ba64511b6/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20710308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20710308" height="30" width="40" /></a>
-<a href="https://discord.gg/furkanadiguzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="furkanadiguzel" height="30" width="40" /></a>
 </p>
 
 
