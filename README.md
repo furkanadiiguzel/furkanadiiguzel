@@ -4,15 +4,15 @@ Junior CTIS Student at Bilkent University</h3>
 
 </br>
 
-<h4 align="center">- 🔭 I’m currently working on [Hi-ROB](https://github.com/Ubn-Jr/hirob-be-core)
+- 🔭 I’m currently working on [Hi-ROB](https://github.com/Ubn-Jr/hirob-be-core)
 </br>
 - 🌱 I’m currently learning **Node.js, LLM, Microservices, IoT**
-</br></h4>
-
-<h4 align="center">- 🤝 I’m looking for help with [My AI Tool Project](https://github.com/furkanadiiguzel/Video-Automation-AI)</h4>
 </br>
 
-<h4 align="center">- 📫 How to reach me **furkadiguzel@gmail.com**</h4>
+align="center">- 🤝 I’m looking for help with [My AI Tool Project](https://github.com/furkanadiiguzel/Video-Automation-AI)
+</br>
+
+align="center">- 📫 How to reach me **furkadiguzel@gmail.com**
 </br>
 
 <h3 align="left">Connect with me:</h3>
