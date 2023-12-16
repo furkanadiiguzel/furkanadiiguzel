@@ -4,7 +4,9 @@ Junior CTIS Student at Bilkent University.
 
 # Currently:
 
-Working on Golang, Blockchain, Promt Engineering 
+Working on Golang, AI Tools
+
+Learning about Blockchain, Node.js, LLM
 
 
 # Socials:
