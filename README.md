@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan Adıgüzel</h1>
-<h3 align="center">Junior Software Developer at UBN-Jr</h3>br>
+<h3 align="center">Junior Software Developer at UBN-Jr</br>
 Junior CTIS Student at Bilkent University</h3>
 
 </br>
