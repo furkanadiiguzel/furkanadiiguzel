@@ -8,28 +8,28 @@
 <br>
 
 <p align="center">
-  <b>🔭 Currently working on</b><br>
+  <b>🔭 Currently working on :</b><br>
   <a href="https://github.com/Ubn-Jr/hirob-be-core">Hi-ROB</a>
 </p>
 
 <br>
 
 <p align="center">
-  <b>🌱 Currently learning</b><br>
+  <b>🌱 Currently learning :</b><br>
   Node.js, LLM, Microservices, IoT
 </p>
 
 <br>
 
 <p align="center">
-  <b>🤝 Looking for help with</b><br>
+  <b>🤝 Looking for help with :</b><br>
   <a href="https://github.com/furkanadiiguzel/Video-Automation-AI">My AI Tool Project</a>
 </p>
 
 <br>
 
 <p align="center">
-  <b>📫 How to reach me</b><br>
+  <b>📫 How to reach me :</b><br>
   <a href="mailto:furkadiguzel@gmail.com">furkadiguzel@gmail.com</a>
 </p>
 
@@ -43,7 +43,7 @@
 
 <br>
 
-<h4 align="center">Languages and Tools:</h4>
+<h4 align="center">Languages and Tools :</h4>
 <p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -98,7 +98,7 @@
 
 <br>
 
-<h3 align="center">📊 GitHub Stats:</h3>
+<h3 align="center">📊 GitHub Stats :</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=furkanadiiguzel&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
