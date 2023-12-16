@@ -2,7 +2,7 @@
 <h3 align="center">Junior Software Developer at UBN-Jr</br>
 &
 </br></h3>
-<h4>Junior CTIS Student at Bilkent University</h4>
+<h4 align="center">Junior CTIS Student at Bilkent University</h4>
 
 </br>
 
