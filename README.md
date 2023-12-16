@@ -2,14 +2,15 @@
 <h3 align="center">Junior Software Developer at UBN-Jr
 Junior CTIS Student at Bilkent University</h3>
 
+</br>
 
 <h4 align="center">- 🔭 I’m currently working on [Hi-ROB](https://github.com/Ubn-Jr/hirob-be-core)</h4>
 </br>
-- 🌱 I’m currently learning **Node.js, LLM, Microservices, IoT**
+<h4 align="center">- 🌱 I’m currently learning **Node.js, LLM, Microservices, IoT**</h4>
 
-- 🤝 I’m looking for help with [My AI Tool Project](https://github.com/furkanadiiguzel/Video-Automation-AI)
+<h4 align="center">- 🤝 I’m looking for help with [My AI Tool Project](https://github.com/furkanadiiguzel/Video-Automation-AI)</h4>
 
-- 📫 How to reach me **furkadiguzel@gmail.com**
+<h4 align="center">- 📫 How to reach me **furkadiguzel@gmail.com**</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
