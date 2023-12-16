@@ -6,7 +6,7 @@ Junior CTIS Student at Bilkent University.
 
 Working on Golang, AI Tools
 
-Learning about Blockchain, Node.js, LLM
+Learning about Blockchain, Next.js, LLM
 
 
 # Socials:
