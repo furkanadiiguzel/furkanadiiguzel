@@ -9,14 +9,14 @@
 
 <p align="center">
   <b>🔭 Currently working on</b><br>
-  <a href="https://github.com/Ubn-Jr/hirob-be-core">Hi-ROB</a>
+  <a href="https://github.com/Ubn-Jr/hirob-be-core">Node.js, AI Technologies, Prompt Engineering</a>
 </p>
 
 <br>
 
 <p align="center">
   <b>🌱 Currently learning</b><br>
-  Node.js, LLM, Microservices, IoT
+  Node.js, LLM
 </p>
 
 <br>
