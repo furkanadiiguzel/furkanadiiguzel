@@ -1,15 +1,14 @@
 <!-- Add this to your README.md file -->
 
 <h1 align="center">Hi 👋, I'm Furkan Adıgüzel</h1>
-<h3 align="center">Junior Software Developer @ UBN-Jr</h3>
+<h3 align="center">Junior RPA Developer @ Linktera</h3>
 <h3 align="center">&</h3>
 <h3 align="center">Senior CTIS Student  @ Bilkent University</h3>
 
 <br>
 
 <p align="center">
-  <b>🔭 Currently working on</b><br>
-  <a href="https://github.com/Ubn-Jr/hirob-be-core">Node.js, AI Technologies, Prompt Engineering</a>
+  <b>🔭 Currently working with UIPath</b><br>
 </p>
 
 <br>
