@@ -1,7 +1,6 @@
 <!-- Add this to your README.md file -->
 
 <h1 align="center">Hi 👋, I'm Furkan Adıgüzel</h1>
-<h3 align="center">Junior RPA Developer @ Linktera</h3>
 <h3 align="center">&</h3>
 <h3 align="center">Senior CTIS Student  @ Bilkent University</h3>
 
