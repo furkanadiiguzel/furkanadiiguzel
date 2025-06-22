@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Furkan Adıgüzel</h1>
 <h3 align="center">&</h3>
-<h3 align="center">Senior CTIS Student  @ Bilkent University</h3>
+<h3 align="center">Graduate CTIS Student  @ Bilkent University</h3>
 
 <br>
 
