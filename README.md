@@ -1,26 +1,38 @@
-👋 Hi there!
+👋 **Hi there!**  
 
-💻 Full-Stack Developer | 🧠 Problem Solver | 🐹 Former Gopher  
+💻 **Full-Stack Developer** | 🧠 **Problem Solver** | 🐹 **Former Gopher**  
 
-🧬 About Me
+---
 
-Hi, I'm Furkan Adıgüzel. I enjoy building software that is simple, useful, and easy to maintain. I like working on both the frontend and backend, creating applications and tools that help people and teams work better.  
+### 🧬 About Me
 
-I have worked on small projects with web apps, backend services, and data handling. These projects helped me learn the basics of writing clean code, solving problems, and working with a team.
+Hi, I'm **Furkan Adıgüzel**!  
+I love building software that’s **simple, practical, and easy to use**. I enjoy working on both **frontend and backend projects**, creating tools and apps that make life easier for users and teams.  
 
-I enjoy learning new technologies, experimenting with new ideas, and improving my skills every day. I like projects where I can contribute to both the design and the implementation, making sure the final result is reliable, easy to use, and effective.  
+I’ve worked on **small web apps, backend services, and data handling projects**.  
+These experiences helped me **learn clean code**, **solve problems step by step**, and **collaborate effectively** with others.  
 
-📫 Let’s Connect
+I’m always exploring **new technologies**, experimenting with ideas, and improving my skills every day.  
+I like projects where I can be involved in **both design and implementation**, making sure the final product is **reliable, user-friendly, and works well**.  
 
-📬 Email: furkandiguzel1999@gmail.com   
-🧰 GitHub: github.com/furkanadiiguzel  
+---
 
-💡 Interests & Passions
+### 📫 Let’s Connect
 
-- Learning and exploring new technologies  
-- Building simple and useful software  
-- Improving workflows and developer tools  
-- AI, robotics, and system design  
-- Problem-solving and writing maintainable code  
-  
-— Furkan Adıgüzel
+📬 Email: **furkandiguzel1999@gmail.com**  
+🧰 GitHub: [github.com/furkanadiiguzel](https://github.com/furkanadiiguzel)  
+
+---
+
+### 💡 Interests & Passions
+
+- 🚀 Learning and exploring new technologies  
+- 🛠 Building simple and useful software  
+- ⚡ Improving workflows and developer tools  
+- 🤖 AI, robotics, and system design  
+- 🧩 Solving problems and writing maintainable code  
+
+---
+
+
+
