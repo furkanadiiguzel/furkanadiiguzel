@@ -14,5 +14,5 @@ TypeScript · Next.js · Node.js
 - AI and system design
 
 ### Contact
-- Email: furkandiguzel1999@gmail.com
+- Email: furkanadiguzel1999@gmail.com
 - GitHub: [furkanadiiguzel](https://github.com/furkanadiiguzel)
