@@ -15,4 +15,4 @@ TypeScript · Next.js · Node.js
 
 ### Contact
 - Email: furkanadiguzel1999@gmail.com
-- GitHub: [furkanadiiguzel](https://github.com/furkanadiiguzel)
+- LinkedIn: [furkanadiiguzel](https://linkedin.com/in/furkanadiiguzel)
